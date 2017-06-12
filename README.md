@@ -15,3 +15,5 @@ this repository contains my assignments
 
 
 [R exam](https://github.com/BrianKorthout/Assignments/blob/master/R%20exam.ipynb)
+
+[Python exam](https://github.com/BrianKorthout/Assignments/blob/master/Python%20exam.ipynb) 
