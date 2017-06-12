@@ -12,3 +12,6 @@ this repository contains my assignments
 [week 6 assignment](https://github.com/BrianKorthout/Assignments/blob/master/assignment4.ipynb) 
 
 [week 8 assignment](https://github.com/BrianKorthout/Assignments/blob/master/assignment%20for%20week%208%20(assignment%205).ipynb)
+
+
+[R exam](https://github.com/BrianKorthout/Assignments/blob/master/R%20exam.ipynb)
